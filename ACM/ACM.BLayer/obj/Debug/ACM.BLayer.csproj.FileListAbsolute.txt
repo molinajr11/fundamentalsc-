@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\logical\FundamentalsC#\ACM\ACM.BLayer\bin\Debug\ACM.BLayer.dll
+C:\Users\User\Desktop\logical\FundamentalsC#\ACM\ACM.BLayer\bin\Debug\ACM.BLayer.pdb
+C:\Users\User\Desktop\logical\FundamentalsC#\ACM\ACM.BLayer\obj\Debug\ACM.BLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\logical\FundamentalsC#\ACM\ACM.BLayer\obj\Debug\ACM.BLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\logical\FundamentalsC#\ACM\ACM.BLayer\obj\Debug\ACM.BLayer.dll
+C:\Users\User\Desktop\logical\FundamentalsC#\ACM\ACM.BLayer\obj\Debug\ACM.BLayer.pdb
