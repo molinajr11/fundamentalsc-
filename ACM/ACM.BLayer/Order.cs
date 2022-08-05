@@ -8,20 +8,20 @@ namespace ACM.BLayer
 {
     public class Order
     {
-        public Order()
+        public Order():this(0)
         {
 
         }
         public Order(int orderId)
         {
             orderId = orderId;
+            OrderItems = new List<OrderItem>();
         }
         public int orderId { get; set; }
         public DateTimeOffset? OrderDate { get; set; }
-
-        public Order Retrive(int orderId) => new Order();
-
-        public bool Save() { return true; }
+        public int CustomerId { get; set; }
+        public int ShippingAddresId { get; set; }
+        public List<OrderItem> OrderItems { get; set; }
 
         public bool Validate()
         {
